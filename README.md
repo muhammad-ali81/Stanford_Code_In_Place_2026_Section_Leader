@@ -93,18 +93,14 @@ As a Section Leader, I:
 
 I taught and mentored students from different countries around the world including:
 
-* Turkey
-* Pakistan
-* India
-* Vietnam
-* Afganistan
+* United States
+* Chile
+* Brazil
+* Guatemala
+* Zambia
 * Mexico
-* Bangladesh
-* China
-* Germany
 * Peru
-* South Korea
-* Colombia
+* Taiwan
 
 This global learning experience helped create an inclusive and collaborative classroom environment for students from diverse backgrounds.
 
@@ -112,7 +108,7 @@ This global learning experience helped create an inclusive and collaborative cla
 
 # TeachNow Sessions Impact 🎯
 
-As part of Stanford Code in Place 2026, I conducted **5 TeachNow sessions** to support students with:
+As part of Stanford Code in Place 2026, I conducted **7 TeachNow sessions** to support students with:
 
 * Python debugging
 * Logic building
@@ -125,7 +121,7 @@ As part of Stanford Code in Place 2026, I conducted **5 TeachNow sessions** to s
 
 > “Thank you for your time and effort. Students are lucky to have your help!”
 
-> “Thank you for teaching! Your help is important for helping students learn and grow.”
+> “Good work today! Your work is making a difference in students' lives.”
 
 These sessions strengthened my mentorship, communication, and technical teaching skills.
 
@@ -139,43 +135,47 @@ I also conducted multiple cover sections for international students across diffe
 
 | Week   | Section         | Topic              |
 | ------ | --------------- | ------------------ |
-| Week 1 | Henry          | Welcome to Section |
-| Week 1 | Infinite Loop         | Welcome to Section       |
-| Week 2 | Iris            | Art of Karel       |
-| Week 2 | Andreas'           | Art of Karel       |
-| Week 2 | Anon         | Art of Karel       |
-| Week 3 | Shreeya | Intro to Python       |
+| Week 1 | Justin          | Welcome to Section |
+| Week 2 | Emma's         | Art of Karel       |
+| Week 2 | Anon            | Art of Karel       |
+| Week 2 | Syed's           | Art of Karel       |
+| Week 2 | Min         | Art of Karel       |
+| Week 2 | Anon | Art of Karel       |
 
 ### Students Taught From
 
-* United States
-* United Kingdom
-* Canada
-* South Korea
-* Costa Rica
-* Australia
-* Mexico
-* Sri Lanka
-* India
-* Taiwan
-* Philippines
-* Colombia
-* Peru
-* South Africa
-* Singapore
-* Hong Kong
-* Turkey
-* Argentina
-* Bolivia
-* Ecuador
-* China
-* France
-* Indonesia
-* Paraguay
-* Chile
-* Ghana
-* Angola
-* Vietnam
+* United States 
+* Canada 
+* Australia 
+* Bangladesh 
+* Brazil 
+* Colombia 
+* Chile 
+* Dominican Republic 
+* Ethiopia 
+* Honduras 
+* Mexico 
+* Netherlands 
+* Japan 
+* Ireland 
+* Italy 
+* Turkey 
+* Spain 
+* Philippines 
+* Afghanistan 
+* Peru 
+* Poland 
+* Pakistan 
+* Nepal 
+* Nigeria 
+* Zambia 
+* EI Salvador 
+* Kenya 
+* South Africa 
+* Singapore 
+* Bolivia 
+* Ecuador 
+* France 
 
 ---
 
@@ -245,11 +245,11 @@ I will add my official Stanford Code in Place 2026 credential and certificate he
 
 ## LinkedIn
 
-https://www.linkedin.com/in/aqsa-kanwal-foodtech/
+https://www.linkedin.com/in/engr-muhammad-ali-7b8a26262/
 
 ## GitHub
 
-https://github.com/aqsaakanwal
+https://github.com/muhammad-ali81
 
 ---
 
