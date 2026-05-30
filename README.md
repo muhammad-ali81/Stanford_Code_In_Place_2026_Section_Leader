@@ -1,43 +1,72 @@
 # Stanford Code in Place 2026 — Section Leader 🌲
 
-Hi! I'm **Muhammad Ali**, a **Section Leader for Stanford University's Code in Place 2026** program.
+<div align="center">
 
-I am a **Electrical Engineer and AI Engineer** passionate about teaching, mentoring, and helping beginners learn programming in an engaging and supportive environment.
+![Stanford](https://img.shields.io/badge/Stanford-Code%20in%20Place%202026-8C1515?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge\&logo=python)
+![Teaching](https://img.shields.io/badge/Role-Section%20Leader-success?style=for-the-badge)
+![CS106A](https://img.shields.io/badge/Course-CS106A-orange?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/RubabShahzadi/Stanford_Code_In_Place_2026_Section_Leader?style=for-the-badge)
+![License](https://img.shields.io/badge/Open%20Source-Educational-informational?style=for-the-badge)
 
-This repository contains my weekly section materials, Python solutions, Karel programs, and learning resources from my Stanford Code in Place 2026 teaching journey.
+</div>
 
 ---
 
-# About Code in Place
+## 👩‍💻 About Me
 
-Stanford University's **Code in Place** is a global initiative based on Stanford’s famous **CS106A Programming Methodologies** course.
+Hi! I'm **Muhammad Ali**, a **Section Leader for Stanford University's Code in Place 2026** program.
 
-The program teaches Python fundamentals to students worldwide through:
+I am a **Electrical Engineer and AI Engineer** passionate about:
 
-* Interactive weekly sections
+* Teaching programming
+* Mentoring beginner developers
+* Building AI & Web projects
+* Creating engaging learning environments
+* Helping students grow with confidence
+
+This repository contains my:
+
+* Weekly section materials
+* Stanford Karel solutions
+* Python assignments
+* Graphics programs
+* Lists & dictionaries projects
+* Teaching resources from Code in Place 2026
+
+---
+
+# 🌍 About Stanford Code in Place
+
+Stanford University's **Code in Place** is a global initiative inspired by Stanford’s famous **CS106A — Programming Methodologies** course.
+
+The program teaches Python programming fundamentals to students worldwide through:
+
+* Interactive live sections
 * Problem-solving activities
 * Collaborative learning
-* Beginner-friendly programming education
+* Community mentorship
+* Beginner-friendly teaching
 
-Official Website:
+🔗 Official Website:
 https://codeinplace.stanford.edu
 
 ---
 
-# My Role as a Section Leader
+# 🎯 My Role as a Section Leader
 
 As a Section Leader, I:
 
-* Conducted weekly live coding sessions
-* Mentored international students
-* Guided students through debugging and problem-solving
-* Led interactive discussions and breakout rooms
-* Helped students build confidence in programming
-* Supported beginners in learning Python step by step
+✅ Conducted weekly live coding sessions
+✅ Mentored international students
+✅ Guided students through debugging and problem-solving
+✅ Led interactive breakout room discussions
+✅ Helped beginners build confidence in programming
+✅ Supported collaborative and inclusive learning
 
 ---
 
-# Weekly Repository Structure
+# 📚 Weekly Repository Structure
 
 | Week   | Topic                  | Folder                          |
 | ------ | ---------------------- | ------------------------------- |
@@ -50,48 +79,9 @@ As a Section Leader, I:
 
 ---
 
-# Topics Covered
+# 🌎 Students in My Section
 
-## Karel Programming
-
-* Functions
-* Decomposition
-* Loops
-* Conditionals
-* Problem Solving
-
-## Python Fundamentals
-
-* Variables
-* User Input
-* Mathematical Operations
-* Control Flow
-* Random Numbers
-
-## Advanced Concepts
-
-* Graphics
-* Lists
-* Dictionaries
-* Interactive Programs
-
----
-
-# Teaching Experience Highlights
-
-* Led multiple interactive live sections
-* Conducted cover sections for international students
-* Created collaborative and engaging learning environments
-* Guided students from non-programming backgrounds
-* Encouraged active participation and teamwork
-* Conducted collaborative coding and debugging sessions
-* Supported students individually through TeachNow sessions
-
----
-
-# Students in My Section 🌍
-
-I taught and mentored students from different countries around the world including:
+I mentored students from different countries around the world including:
 
 * United States
 * Chile
@@ -102,36 +92,33 @@ I taught and mentored students from different countries around the world includi
 * Peru
 * Taiwan
 
-This global learning experience helped create an inclusive and collaborative classroom environment for students from diverse backgrounds.
+This global classroom experience helped create an inclusive and collaborative learning environment.
 
 ---
 
-# TeachNow Sessions Impact 🎯
+# 🎓 TeachNow Sessions Impact
 
-As part of Stanford Code in Place 2026, I conducted **7 TeachNow sessions** to support students with:
+As part of Stanford Code in Place 2026, I conducted **7 TeachNow sessions** focused on:
 
 * Python debugging
-* Logic building
 * Problem solving
-* Assignment guidance
-* Karel concepts
-* Confidence building in programming
+* Logic building
+* Assignment support
+* Beginner mentorship
 
-### Student Feedback Highlights
+### 💬 Student Feedback Highlights
 
 > “Thank you for your time and effort. Students are lucky to have your help!”
 
 > “Good work today! Your work is making a difference in students' lives.”
 
-These sessions strengthened my mentorship, communication, and technical teaching skills.
-
 ---
 
-# Cover Sections Experience 🌎
+# 🌍 Cover Sections Experience
 
 I also conducted multiple cover sections for international students across different time zones.
 
-### Covered Sections
+### Sections Covered
 
 | Week   | Section         | Topic              |
 | ------ | --------------- | ------------------ |
@@ -175,25 +162,11 @@ I also conducted multiple cover sections for international students across diffe
 * Singapore 
 * Bolivia 
 * Ecuador 
-* France 
-
+* France
+  
 ---
 
-# Repository Contents
-
-This repository includes:
-
-* Weekly solutions
-* Karel assignments
-* Python practice programs
-* Graphics programs
-* Lists & dictionary projects
-* Section learning resources
-* Weekly README documentation
-
----
-
-# Skills Developed & Demonstrated 💡
+# 💡 Skills Demonstrated
 
 * Python Programming
 * Stanford CS106A Concepts
@@ -203,57 +176,54 @@ This repository includes:
 * Problem Solving
 * GitHub Repository Management
 * Collaborative Learning
-* Community Building
-* Debugging and Code Review
+* Debugging & Code Review
 
 ---
 
-# Technologies Used
+# 🛠 Technologies Used
 
-* Python
-* Stanford Karel
-* CS106A Concepts
-* GitHub
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![Stanford Karel](https://img.shields.io/badge/Stanford-Karel-red)
+![CS106A](https://img.shields.io/badge/CS106A-Stanford-orange)
 
 ---
 
-# Stanford Code in Place 2026 — Credential 🏆
+# 🏆 Stanford Code in Place 2026 Credential
 
 **Role:** Section Leader
-**Program:** Stanford Code in Place 2026
 **Course:** CS106A — Programming Methodologies
 **Platform:** Stanford Online
 
-### What I Did
+### Responsibilities
 
 * Mentored international students in Python programming
-* Taught weekly interactive coding sessions
-* Guided beginners through problem solving and debugging
-* Conducted TeachNow support sessions
+* Conducted interactive live coding sessions
+* Guided beginners through debugging and problem solving
+* Supported students through TeachNow sessions
 * Created structured GitHub learning resources
-* Encouraged collaborative and inclusive learning
 
 ---
 
-# Certificate of Completion
+# 📜 Certificate of Completion
 
 I will add my official Stanford Code in Place 2026 credential and certificate here after program completion.
 
 ---
 
-# Connect With Me
+# 🤝 Connect With Me
 
-## LinkedIn
+### LinkedIn
 
 https://www.linkedin.com/in/engr-muhammad-ali-7b8a26262/
 
-## GitHub
+### GitHub
 
 https://github.com/muhammad-ali81
 
 ---
 
-# Acknowledgment 💙
+# 💙 Acknowledgment
 
 Special thanks to:
 
@@ -265,10 +235,8 @@ Special thanks to:
 
 ---
 
-# Happy Coding 🚀
+# 🚀 Happy Coding
 
-Learning programming is a journey of curiosity, creativity, consistency, and continuous improvement.
+Programming is a journey of curiosity, creativity, consistency, and continuous learning.
 
 Thank you for visiting this repository!
-
-
